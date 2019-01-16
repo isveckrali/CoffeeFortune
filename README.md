@@ -13,9 +13,14 @@ Coffee Fortune provides to estimate from the future from user selected subject, 
 
 <h2>Screen Shots</h2>
 
+When 'Login With Email' button clicked
+
 ![Screenshot](ss1.png)
 
-![Screenshot](ss2.png)
+When 'Register' button clicked
+
+![img](ss2.png)
+
 
 
 
