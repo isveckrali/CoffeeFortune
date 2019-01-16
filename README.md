@@ -19,7 +19,7 @@ When 'Login With Email' button clicked
 
 When 'Register' button clicked
 
-![img](ss2.png)
+![alt text](ss2.png)
 
 
 
