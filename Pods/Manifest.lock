@@ -1,0 +1,56 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.3.0)
+  - Bolts (1.9.0):
+    - Bolts/AppLinks (= 1.9.0)
+    - Bolts/Tasks (= 1.9.0)
+  - Bolts/AppLinks (1.9.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.9.0)
+  - FBSDKCoreKit (4.28.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.28.0):
+    - FBSDKCoreKit
+  - Parse (1.17.1):
+    - Parse/Core (= 1.17.1)
+  - Parse/Core (1.17.1):
+    - Bolts/Tasks (~> 1.9)
+  - Parse/FacebookUtils (1.17.1):
+    - FBSDKCoreKit (~> 4.28.0)
+    - FBSDKLoginKit (~> 4.28.0)
+    - FBSDKShareKit (~> 4.28.0)
+    - FBSDKTVOSKit (~> 4.28.0)
+    - Parse/Core
+  - SCLAlertView (0.8)
+  - UIScrollView-InfiniteScroll (1.1.0)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - FBSDKCoreKit
+  - FBSDKLoginKit
+  - Parse
+  - Parse/FacebookUtils
+  - SCLAlertView
+  - UIScrollView-InfiniteScroll (~> 1.1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ActionSheetPicker-3.0
+    - Bolts
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - Parse
+    - SCLAlertView
+    - UIScrollView-InfiniteScroll
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: eef157d75e151f255c5333d26656c7fbfe905a51
+  Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
+  FBSDKCoreKit: ca961e279113f691fd83dc634c0bbad9d4e3f370
+  FBSDKLoginKit: b077381c27d800f21661757e8140cf2c80a91e4a
+  Parse: d3edaf8c7c722cb33cb83ba7821d015ae32d362d
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  UIScrollView-InfiniteScroll: 3ef456bcbe759c19f510a383cff96e6647c98c98
+
+PODFILE CHECKSUM: 7365cbdbbf4f92765ad8c4ff10b53bca779e2ca1
+
+COCOAPODS: 1.6.0.beta.1
